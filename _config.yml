@@ -1,0 +1,28 @@
+name: Jim Kirkby
+favicon: null
+layout_spectrum: 0.6366044473834336
+typography_spectrum: 0.6182560781016946
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.562358433380723
+  lightness: 0.9466454705689102
+  saturation: 0.10977193689905107
+  rhythmicContrast: 0.12274281540885568
+purpose: []
